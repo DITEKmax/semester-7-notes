@@ -1,0 +1,37 @@
+# Local editor and operating-system artifacts
+/.vscode/
+/.idea/
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Local agent metadata
+/.agent/
+/.agents/
+/.codex/
+/.claude/
+
+# Backups, archives, audio, and temporary files
+backup/
+backups/
+*.bak
+*.backup
+*.bkp
+*.old
+*.orig
+*.zip
+*.7z
+*.rar
+*.mp3
+*.wav
+*.m4a
+*.aac
+*.flac
+*.ogg
+*.opus
+*.tmp
+*.temp
+*.swp
+*.swo
+*~
